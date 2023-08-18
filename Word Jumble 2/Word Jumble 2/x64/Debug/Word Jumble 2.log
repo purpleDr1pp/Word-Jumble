@@ -1,0 +1,4 @@
+﻿  WJ2.cpp
+C:\Users\Любовь\Desktop\доусон с++\Глава 3\Word Jumble 2\Word Jumble 2\WJ2.cpp(33,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Любовь\Desktop\доусон с++\Глава 3\Word Jumble 2\Word Jumble 2\WJ2.cpp(42,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Word Jumble 2.vcxproj -> C:\Users\Любовь\Desktop\доусон с++\Глава 3\Word Jumble 2\x64\Debug\Word Jumble 2.exe
